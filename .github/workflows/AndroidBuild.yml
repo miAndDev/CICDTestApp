@@ -1,10 +1,10 @@
 name: AndroidBuild
-on: [
+on:
   push:
     branches: ["master"]
-]
 
-jobs: [
+
+jobs:
   debug:
 
     runs-on: ubuntu-latest
@@ -24,4 +24,3 @@ jobs: [
 
       - name: Build with Gradle
         run: ./gradlew build
-]

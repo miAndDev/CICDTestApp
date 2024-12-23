@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "523054976119",
+    "project_id": "test-db03d",
+    "storage_bucket": "test-db03d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523054976119:android:6eb01e71426dc47932ca72",
+        "android_client_info": {
+          "package_name": "com.masomo.basketballare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4ooG1UD9BkNrJYUzI2Vf1kKRTzzmCyZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523054976119:android:398a84685b921b9532ca72",
+        "android_client_info": {
+          "package_name": "com.parallelspace.cicdtestapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4ooG1UD9BkNrJYUzI2Vf1kKRTzzmCyZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

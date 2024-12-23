@@ -1,7 +1,8 @@
 name: AndroidBuild
-on:
+on: [
   push:
     branches: ["master"]
+]
 
 jobs: [
   debug:
